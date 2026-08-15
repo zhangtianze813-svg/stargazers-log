@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "starred_at": "2026-08-10T12:34:56Z",
+    "repo": {
+      "full_name": "octocat/Hello-World",
+      "html_url": "https://github.com/octocat/Hello-World",
+      "description": "My first repository on GitHub!",
+      "owner": {
+        "login": "octocat",
+        "avatar_url": "https://avatars.githubusercontent.com/u/583231?v=4"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "starred_at": "2026-07-22T09:15:00Z",
+    "repo": {
+      "full_name": "vercel/next.js",
+      "html_url": "https://github.com/vercel/next.js",
+      "description": "The React Framework",
+      "owner": {
+        "login": "vercel",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14985020?v=4"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "starred_at": "2026-06-01T18:00:00Z",
+    "repo": {
+      "full_name": "tensorflow/tensorflow",
+      "html_url": "https://github.com/tensorflow/tensorflow",
+      "description": "An end-to-end open source machine learning platform",
+      "owner": {
+        "login": "tensorflow",
+        "avatar_url": "https://avatars.githubusercontent.com/u/15658638?v=4"
+      }
+    }
+  }
+]
